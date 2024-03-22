@@ -6,9 +6,9 @@
 Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage. Therefore, if we can determine whether the launch will be a successful one or if the launch will fail, whether the the first stage will land or not,  we can determine the cost of a launch. The goal of the project predict if the SpaceX can reuse the first stage by using public data and machine learning models.
 
 * Problems to solve:
-How payload mass, launch site, number of flights, and orbits affect first-stage landing outcome.
-What is the rate of successful landings over time.
-What is the best predictive model for successful landing.
+How payload mass, launch site, number of flights, and orbits affect first-stage landing outcome? 
+What is the rate of successful landings over time? 
+What is the best predictive model for successful landing? 
 
 ## Executive Summary
 
